@@ -10,3 +10,5 @@ st.subheader("Future Dates")
 
 st.write("January 18 | Regional Competition (MO)")
 
+st.write("Date TBD | National Competition (USA)")
+
