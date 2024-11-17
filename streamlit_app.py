@@ -1,6 +1,12 @@
 import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+st.title("Live Updates")
+
+st.write("Oceana City")
+
+st.error("Live Updates do not begin until January 18")
+
+st.subheader("Future Dates")
+
+st.write("January 18 | Regional Competition (MO)")
+
